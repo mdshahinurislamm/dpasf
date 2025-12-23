@@ -568,13 +568,13 @@ window.addEventListener('load', () => {
 // ===========================
 
 function shareOnTwitter() {
-    const text = "🔐 Just discovered Tyro Login - Beautiful, customizable authentication views for Laravel 12! Multiple layouts, dark/light themes, lockout protection. Check it out! #Laravel #PHP #WebDev";
-    const url = "https://github.com/hasinhayder/tyro-login";
+    const text = "🔐 Just discovered Download PDF After Submit Form - Beautiful, customizable, no programming knowledge required. Check it out! #WordPress #PHP #WebDev";
+    const url = "https://wordpress.org/plugins/download-pdf-after-submit-form";
     window.open(`https://twitter.com/intent/tweet?text=${encodeURIComponent(text)}&url=${encodeURIComponent(url)}`, '_blank', 'width=550,height=420');
 }
 
 function shareOnLinkedIn() {
-    const url = "https://github.com/hasinhayder/tyro-login";
+    const url = "https://wordpress.org/plugins/download-pdf-after-submit-form";
     window.open(`https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(url)}`, '_blank', 'width=550,height=420');
 }
 

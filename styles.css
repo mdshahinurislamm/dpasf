@@ -1038,7 +1038,7 @@ section {
     background: #0f172a;
     padding: var(--spacing-md);
     border-radius: var(--radius-md);
-    width: 180px;
+    /* width: 180px; */
     border: 1px solid #334155;
 }
 
@@ -1113,7 +1113,7 @@ section {
    =========================== */
 
 .quick-start {
-    background: var(--color-bg-secondary);
+    background: var(--color-bg);
 }
 
 .steps {
